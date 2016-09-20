@@ -1,0 +1,31 @@
+\\banner.main.ad.rit.edu\students\iv6703\IGMProfile\Desktop\GUIFromHell\bin\Debug\GUIFromHell.exe.config
+\\banner.main.ad.rit.edu\students\iv6703\IGMProfile\Desktop\GUIFromHell\bin\Debug\GUIFromHell.exe
+\\banner.main.ad.rit.edu\students\iv6703\IGMProfile\Desktop\GUIFromHell\bin\Debug\GUIFromHell.pdb
+\\banner.main.ad.rit.edu\students\iv6703\IGMProfile\Desktop\GUIFromHell\obj\Debug\GUIFromHell.csprojResolveAssemblyReference.cache
+\\banner.main.ad.rit.edu\students\iv6703\IGMProfile\Desktop\GUIFromHell\obj\Debug\GUIFromHell.Form1.resources
+\\banner.main.ad.rit.edu\students\iv6703\IGMProfile\Desktop\GUIFromHell\obj\Debug\GUIFromHell.Properties.Resources.resources
+\\banner.main.ad.rit.edu\students\iv6703\IGMProfile\Desktop\GUIFromHell\obj\Debug\GUIFromHell.csproj.GenerateResource.Cache
+\\banner.main.ad.rit.edu\students\iv6703\IGMProfile\Desktop\GUIFromHell\obj\Debug\GUIFromHell.exe
+\\banner.main.ad.rit.edu\students\iv6703\IGMProfile\Desktop\GUIFromHell\obj\Debug\GUIFromHell.pdb
+C:\Users\Bella\Desktop\GUI HW\GUIFromHell\bin\Debug\GUIFromHell.exe.config
+C:\Users\Bella\Desktop\GUI HW\GUIFromHell\obj\Debug\GUIFromHell.exe
+C:\Users\Bella\Desktop\GUI HW\GUIFromHell\obj\Debug\GUIFromHell.pdb
+C:\Users\Bella\Desktop\GUI HW\GUIFromHell\bin\Debug\GUIFromHell.exe
+C:\Users\Bella\Desktop\GUI HW\GUIFromHell\bin\Debug\GUIFromHell.pdb
+C:\Users\Bella\Desktop\GUI HW\GUIFromHell\obj\Debug\GUIFromHell.csprojResolveAssemblyReference.cache
+C:\Users\Bella\Desktop\GUI HW\GUIFromHell\obj\Debug\GUIFromHell.Form1.resources
+C:\Users\Bella\Desktop\GUI HW\GUIFromHell\obj\Debug\GUIFromHell.Properties.Resources.resources
+C:\Users\Bella\Desktop\GUI HW\GUIFromHell\obj\Debug\GUIFromHell.csproj.GenerateResource.Cache
+C:\Users\Bella\Desktop\GUI HW\GUIFromHell\obj\Debug\GUIFromHell.Form2.resources
+C:\Users\Bella\Desktop\GUI HW\GUIFromHell\obj\Debug\GUIFromHell.Form3.resources
+D:\Profiles\iv6703\GUI HW 65\GUI HW 65\GUIFromHell\bin\Debug\GUIFromHell.exe.config
+D:\Profiles\iv6703\GUI HW 65\GUI HW 65\GUIFromHell\obj\Debug\GUIFromHell.exe
+D:\Profiles\iv6703\GUI HW 65\GUI HW 65\GUIFromHell\obj\Debug\GUIFromHell.pdb
+D:\Profiles\iv6703\GUI HW 65\GUI HW 65\GUIFromHell\bin\Debug\GUIFromHell.exe
+D:\Profiles\iv6703\GUI HW 65\GUI HW 65\GUIFromHell\bin\Debug\GUIFromHell.pdb
+D:\Profiles\iv6703\GUI HW 65\GUI HW 65\GUIFromHell\obj\Debug\GUIFromHell.csprojResolveAssemblyReference.cache
+D:\Profiles\iv6703\GUI HW 65\GUI HW 65\GUIFromHell\obj\Debug\GUIFromHell.Form1.resources
+D:\Profiles\iv6703\GUI HW 65\GUI HW 65\GUIFromHell\obj\Debug\GUIFromHell.Form2.resources
+D:\Profiles\iv6703\GUI HW 65\GUI HW 65\GUIFromHell\obj\Debug\GUIFromHell.Form3.resources
+D:\Profiles\iv6703\GUI HW 65\GUI HW 65\GUIFromHell\obj\Debug\GUIFromHell.Properties.Resources.resources
+D:\Profiles\iv6703\GUI HW 65\GUI HW 65\GUIFromHell\obj\Debug\GUIFromHell.csproj.GenerateResource.Cache
